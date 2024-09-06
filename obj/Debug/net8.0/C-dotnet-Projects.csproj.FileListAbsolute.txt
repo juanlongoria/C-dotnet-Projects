@@ -1,0 +1,14 @@
+/Users/juanlongoria/Code/VSCMac/C-dotnet-Projects/bin/Debug/net8.0/C-dotnet-Projects
+/Users/juanlongoria/Code/VSCMac/C-dotnet-Projects/bin/Debug/net8.0/C-dotnet-Projects.deps.json
+/Users/juanlongoria/Code/VSCMac/C-dotnet-Projects/bin/Debug/net8.0/C-dotnet-Projects.runtimeconfig.json
+/Users/juanlongoria/Code/VSCMac/C-dotnet-Projects/bin/Debug/net8.0/C-dotnet-Projects.dll
+/Users/juanlongoria/Code/VSCMac/C-dotnet-Projects/bin/Debug/net8.0/C-dotnet-Projects.pdb
+/Users/juanlongoria/Code/VSCMac/C-dotnet-Projects/obj/Debug/net8.0/C-dotnet-Projects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanlongoria/Code/VSCMac/C-dotnet-Projects/obj/Debug/net8.0/C-dotnet-Projects.AssemblyInfoInputs.cache
+/Users/juanlongoria/Code/VSCMac/C-dotnet-Projects/obj/Debug/net8.0/C-dotnet-Projects.AssemblyInfo.cs
+/Users/juanlongoria/Code/VSCMac/C-dotnet-Projects/obj/Debug/net8.0/C-dotnet-Projects.csproj.CoreCompileInputs.cache
+/Users/juanlongoria/Code/VSCMac/C-dotnet-Projects/obj/Debug/net8.0/C-dotnet-Projects.dll
+/Users/juanlongoria/Code/VSCMac/C-dotnet-Projects/obj/Debug/net8.0/refint/C-dotnet-Projects.dll
+/Users/juanlongoria/Code/VSCMac/C-dotnet-Projects/obj/Debug/net8.0/C-dotnet-Projects.pdb
+/Users/juanlongoria/Code/VSCMac/C-dotnet-Projects/obj/Debug/net8.0/C-dotnet-Projects.genruntimeconfig.cache
+/Users/juanlongoria/Code/VSCMac/C-dotnet-Projects/obj/Debug/net8.0/ref/C-dotnet-Projects.dll
