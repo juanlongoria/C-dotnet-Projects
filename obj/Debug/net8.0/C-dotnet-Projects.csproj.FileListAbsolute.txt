@@ -12,3 +12,4 @@
 /Users/juanlongoria/Code/VSCMac/C-dotnet-Projects/obj/Debug/net8.0/C-dotnet-Projects.pdb
 /Users/juanlongoria/Code/VSCMac/C-dotnet-Projects/obj/Debug/net8.0/C-dotnet-Projects.genruntimeconfig.cache
 /Users/juanlongoria/Code/VSCMac/C-dotnet-Projects/obj/Debug/net8.0/ref/C-dotnet-Projects.dll
+/Users/juanlongoria/Code/VSCMac/C-dotnet-Projects/obj/Debug/net8.0/C-dotnet-Projects.sourcelink.json
